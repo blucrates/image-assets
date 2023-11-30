@@ -15,6 +15,14 @@
             "symbol": "WBLU",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/blucrates/image-assets/main/logo.png"
+        },
+        {
+            "chainId": 727,
+            "address": "0x0914Fb3C53CCB27107182d182ff9d20D39dc22eF",
+            "name": "BluCratsToken",
+            "symbol": "BLUC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/blucrates/image-assets/main/blucrats.png"
         }
     ]
 }
