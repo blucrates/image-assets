@@ -1,0 +1,20 @@
+{
+    "name": "Blucrates Token List",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/blucrates/image-assets/main/logo.png",
+    "timestamp": "2021-07-25 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 727,
+            "address": "0x9eD99162EBD06e8318e69f40B74741ea50E3F233",
+            "name": "Wrapped Blu",
+            "symbol": "WBLU",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/blucrates/image-assets/main/logo.png"
+        }
+    ]
+}
